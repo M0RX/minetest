@@ -1,0 +1,4 @@
+language: 'de-DE'
+mysql:
+  jdbc: ''
+prefix: '&aPermission -> §e'

@@ -1,0 +1,7 @@
+name: Minetest
+version: 1.0
+author: M0RXD3V
+api-version: 1.8
+main: dev.morx.minetest.MinetestPlugin
+commands:
+  permission:
